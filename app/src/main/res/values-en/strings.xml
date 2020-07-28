@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_language_prompt">Choose a language:</string>
+    <string name="textLanguage">It is english mode on</string>
+    <string name="tostLanguage">You choose english mode</string>
+    <string-array name="change_language_array">
+        <item name="russian_language">russian</item>
+        <item name="english_language">english</item>
+    </string-array>
+</resources>

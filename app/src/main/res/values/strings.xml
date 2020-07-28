@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">ChangeLanguage_on_API_24</string>
+    <string name="okBtn" translatable="false">Ok</string>
+    <string name="textLanguage">Включен режим русского языка</string>
+    <string name="tostLanguage">Вы выбрали режим русского языка</string>
+    <string name="change_language_prompt">Выбор языка:</string>
+    <string-array name="change_language_array">
+        <item name="russian_language">русский</item>
+        <item name="english_language">английский</item>
+    </string-array>
+</resources>

@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ChangeLanguage_on_API_24"
